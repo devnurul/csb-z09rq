@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devnurul.github.io/csb-z09rq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://devnurul.github.io/csb-z09rq/static/js/main.ee79032f.chunk.js",
+    "main.js.map": "https://devnurul.github.io/csb-z09rq/static/js/main.ee79032f.chunk.js.map",
+    "runtime-main.js": "https://devnurul.github.io/csb-z09rq/static/js/runtime-main.7c6937b7.js",
+    "runtime-main.js.map": "https://devnurul.github.io/csb-z09rq/static/js/runtime-main.7c6937b7.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://devnurul.github.io/csb-z09rq/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://devnurul.github.io/csb-z09rq/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://devnurul.github.io/csb-z09rq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://devnurul.github.io/csb-z09rq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://devnurul.github.io/csb-z09rq/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c6937b7.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ee79032f.chunk.js"
+  ]
+}
